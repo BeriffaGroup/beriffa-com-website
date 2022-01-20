@@ -1,6 +1,9 @@
-- title: Getting started
+- title: Projects
   pages:
-    - path: /getting-started
+    - title: CitizenID
+      path: /projects/citizenid
+    - title: Pacific Mint Club
+      path: /projects/pacificmintclub
 - title: Demo
   pages:
     - path: /demo

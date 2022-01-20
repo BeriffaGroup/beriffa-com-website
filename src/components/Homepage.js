@@ -3,7 +3,7 @@ import { HomepageBanner, HomepageCallout } from 'gatsby-theme-carbon';
 import HomepageTemplate from 'gatsby-theme-carbon/src/templates/Homepage';
 import { calloutLink } from './Homepage.module.scss';
 
-import Carbon from './hero.png';
+import Carbon from '/src/images/hero.jpg';
 
 const FirstLeftText = () => <p>Callout component</p>;
 

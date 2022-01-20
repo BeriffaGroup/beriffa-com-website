@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Theme Carbon',
-    description: 'A Gatsby theme for the carbon design system',
+    title: 'Beriffa Group',
+    description: 'At Beriffa Group we create stunning web solutions.',
     keywords: 'gatsby,theme,carbon',
   },
   pathPrefix: `/gtc`,
@@ -22,12 +22,15 @@ module.exports = {
       resolve: 'gatsby-theme-carbon',
       options: {
         navigationStyle: 'header',
+        withWebp: true, // true, false (default false)
+        imageQuality: 75, // 0-100 (default 75)
         repository: {
           baseUrl:
-            'https://github.com/carbon-design-system/gatsby-theme-carbon',
+            'https://github.com/BeriffaGroup/beriffa-com-website',
           subDirectory: '/packages/example',
         },
       },
+
     },
   ],
 };

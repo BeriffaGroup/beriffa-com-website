@@ -1,1 +1,48 @@
 // This is where your application styles could go.
+header { 
+	max-width: 1450px; 
+	margin: 0 auto !important; 
+	float: none !important; 
+}
+
+body { 
+	max-width: 1450px; 
+    background: #ffffffb4;
+	margin: 0 auto !important; 
+	float: none !important; 
+}
+
+nav.LeftNav-module--side-nav--dark--t1s1X {
+    --cds-ui-03: #ffffff00;
+    padding-top: 1rem;
+    background-color: #ffffff00;
+    border-right: 0px solid #ffffff00;
+}
+
+nav.LeftNav-module--side-nav--white--ZHyHD {
+    background-color: #ffffff;
+    border-right: 0px solid #e0e0e0;
+}
+
+.Header-module--headerWithHeaderNav--PQydz .bx--header__nav {
+    left: 12%;
+    top: 0;
+    padding-left: 0;
+    z-index: 2;
+}
+
+.bx--header__nav::before {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    display: block;
+    width: 0.0625rem;
+    height: 1.5rem;
+    background-color: #393939;
+    transform: translateY(-50%);
+    content: "";
+}
+
+.NextPrevious-module--link-container--An4-N {
+    height: 0rem;
+}
