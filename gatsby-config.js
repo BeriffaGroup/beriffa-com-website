@@ -27,7 +27,7 @@ module.exports = {
         repository: {
           baseUrl:
             'https://github.com/BeriffaGroup/beriffa-com-website',
-          subDirectory: '/packages/example',
+          subDirectory: '',
         },
       },
 
