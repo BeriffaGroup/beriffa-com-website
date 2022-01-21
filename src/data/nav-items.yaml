@@ -3,16 +3,7 @@
     - title: CitizenID
       path: /projects/citizenid
     - title: Pacific Mint Club
-      path: /projects/pacificmintclub
-- title: Demo
-  pages:
-    - path: /demo
-- title: Gallery
-  pages:
-    - path: /gallery
-- title: Contributions
-  pages:
-    - path: /contributions
+      path: /projects/pacificmintclub/about
 - title: Guides
   pages:
     - title: Authoring MDX

@@ -7,7 +7,8 @@ header {
 
 body { 
 	max-width: 1450px; 
-    background: #ffffffb4;
+    background: #f4f4f4;
+    border: #393939;
 	margin: 0 auto !important; 
 	float: none !important; 
 }
@@ -45,4 +46,9 @@ nav.LeftNav-module--side-nav--white--ZHyHD {
 
 .NextPrevious-module--link-container--An4-N {
     height: 0rem;
+}
+
+.Footer-module--logo--ziLRb {
+    fill: #f4f4f400;
+    margin-top: 0rem;
 }
