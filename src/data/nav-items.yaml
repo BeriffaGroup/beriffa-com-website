@@ -4,23 +4,9 @@
       path: /projects/citizenid
     - title: Pacific Mint Club
       path: /projects/pacificmintclub/about
-- title: Guides
+- title: Corporate
   pages:
-    - title: Authoring MDX
+    - title: Beriffa Leadership
       path: /guides/MDX
-    - title: Configuration
-      path: /guides/configuration
-    - title: Gatsby Sketch kit
-      path: /guides/sketch-kit
-    - title: Hosting
-      path: /guides/hosting
-    - title: Navigation
-      path: /guides/navigation/sidebar
-    - title: npm scripts
-      path: /guides/npm-scripts
-    - title: Shadowing
-      path: /guides/shadowing
-    - title: Styling
-      path: /guides/styling
-    - title: v2.0 Migration
-      path: /guides/v2-migration
+    - title: Beriffa Leadership
+      path: /guides/MDX
